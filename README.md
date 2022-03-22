@@ -1,4 +1,8 @@
-### Hi there 👋
+ Welcome!
+ 
+ I'm a full stack web developer and designer! My focus is to create aesthetically beautiful websites that everyone can enjoy. 
+ 
+ Contact: https://www.linkedin.com/in/danny-chui/
 
 <!--
 **wreck888/wreck888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
