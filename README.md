@@ -1,5 +1,4 @@
- Welcome!
- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+ ![This is an image](https://thankyouposters.com/wp-content/uploads/2020/08/Welcome-01-colors-on-white-banner-6x3-ft-H.jpg)
 
 
 Small city kid with a big city heart! I recently found the Tech World door and opened it. Now stepping through by attending BloomTech Institute of Technology! I'm finding my way through the path of the tech world and loving it! I'm a constant learner, not just technologies and about life. My experience and path through life before entering the tech world has better prepared me in a positive way for these endeavours.
