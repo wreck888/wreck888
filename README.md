@@ -5,6 +5,8 @@ Small city kid with a big city heart! I recently found the Tech World door and o
 I'm a full stack web developer and designer! My focus is to create aesthetically beautiful websites that everyone can enjoy. A tech enthusiast with strong technical and programming skills. With Reactjs, Redux, Javascript, HTML, CSS, SQL, Jest, Knexjs, Cypress, RESTful API, Nodejs, and JSON knowledge.
 
  Contact: https://www.linkedin.com/in/danny-chui/
+ 
+ ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wreck888&theme=vue_icons=true)
 
 <!--
 **wreck888/wreck888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
