@@ -1,7 +1,8 @@
  Welcome!
  
- I'm a full stack web developer and designer! My focus is to create aesthetically beautiful websites that everyone can enjoy. 
- Currently a student at BloomTech Institute of Technology. A tech enthusiast with strong technical and programming skills. With   Reactjs, Redux, Javascript, HTML, CSS, SQL, Jest, Knexjs, Cypress, RESTful API, Nodejs, and JSON knowledge.
+Small market kid with a big market heart! I recently found the Tech World door and opened it. Now stepping through by attending BloomTech Institute of Technology! I'm finding my way through the path of the tech world and loving it! I'm a constant learner, not just technologies and about life. My experience and path through life before entering the tech world has better prepared me in a positive way for these endeavours.
+ 
+I'm a full stack web developer and designer! My focus is to create aesthetically beautiful websites that everyone can enjoy. A tech enthusiast with strong technical and programming skills. With Reactjs, Redux, Javascript, HTML, CSS, SQL, Jest, Knexjs, Cypress, RESTful API, Nodejs, and JSON knowledge.
 
  Contact: https://www.linkedin.com/in/danny-chui/
 
